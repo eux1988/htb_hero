@@ -54,9 +54,9 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+        identifier = "chi_sono"
+        name = "chi_sono"
+        url = "/chi_sono"
       [[languages.en.menu.main]]
         identifier = "metodologia_htb"
         name = "metodologia_htb"
