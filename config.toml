@@ -39,7 +39,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "hack_the_box_hero"
     subtitle = "Risoluzioni CTF HackTheBox"
     owner = ""
     keywords = ""
