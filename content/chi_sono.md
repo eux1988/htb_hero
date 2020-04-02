@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "chi_sono"
 date = "2019-01-25"
 author = "Radek"
 +++
