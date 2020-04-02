@@ -1,6 +1,5 @@
 ---
 title: "metodologia_htb"
-date: "2020-04-02"
 author: "Eugenio Fontana"
 ---
 
