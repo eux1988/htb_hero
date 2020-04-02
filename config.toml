@@ -58,6 +58,6 @@ paginate = 5
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        identifier = "metodologia_htb"
+        name = "metodologia_htb"
+        url = "/metodologia_htb"
