@@ -40,13 +40,13 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "Risoluzioni CTF HackTheBox"
     owner = ""
     keywords = ""
     copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
+    menuMore = "Mostra altro"
+    readMore = "Leggi altro"
+    readOtherPosts = "Leggi altri post"
 
     [languages.en.params.logo]
       logoText = "Terminal"
