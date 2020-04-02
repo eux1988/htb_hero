@@ -17,4 +17,4 @@ Sed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia
 - Sed efficitur, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus.
 - Nunc ornare purus enim, id eleifend mauris vestibulum volutpat.
 - Aenean facilisis ut ipsum condimentum ultrices.
-- Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.
+- Fusce sed metus vultate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.
