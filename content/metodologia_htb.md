@@ -7,7 +7,7 @@ author: "Eugenio Fontana"
 
 Partiamo con una **scansione** per verificare quali SERVIZI e PORTE sono **aperte** all'interno del nostro **target**.
 
-```lua
+```html
 sudo nmap -v -sS -A -Pn -T5 -p- -oN swagshop.txt 10.10.10.140
 ```
 
