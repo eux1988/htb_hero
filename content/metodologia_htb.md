@@ -1,10 +1,16 @@
 ---
 title: "metodologia_htb"
-date: "2018-07-18"
-author: "Hello Robot"
+date: "2020-04-02"
+author: "Eugenio Fontana"
 ---
 
-## Header 2
+## Fase 1 | SCANSIONE
+
+Partiamo con una **scansione** per verificare quali SERVIZI e PORTE sono **aperte** all'interno del nostro **target**.
+
+```lua
+sudo nmap -v -sS -A -Pn -T5 -p- -oN swagshop.txt 10.10.10.140
+```
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. **Donec quis dolor nec nunc mollis interdum vel in purus**. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
 
