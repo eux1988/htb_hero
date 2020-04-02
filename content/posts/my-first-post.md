@@ -1,7 +1,7 @@
 +++
 title = "Lame Walkthrough"
 date = ""
-author = ""
+author = "Eugenio Fontana"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["", ""]
