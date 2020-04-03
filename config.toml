@@ -61,3 +61,7 @@ paginate = 5
         identifier = "metodologia_htb"
         name = "metodologia_htb"
         url = "/metodologia_htb"
+       [[languages.en.menu.main]]
+        identifier = "link_utili"
+        name = "link_utili"
+        url = "/link_utili"
