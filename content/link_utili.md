@@ -28,6 +28,28 @@ author: "Eugenio Fontana"
 
 > Elenco di comandi e tool utili. Una panoramica di alto livello. [Beginner Tips to Own Boxes at HackTheBox!](https://medium.com/bug-bounty-hunting/beginner-tips-to-own-boxes-at-hackthebox-9ae3fec92a96)
 
+## 0xdf.gitlab.io
+
+> Uno dei migliori siti in cui vengono mostrate le soluzioni alle VM di HTB, quelle ritirate ovviamente! [0xdf.gitlab.io](https://0xdf.gitlab.io/)
+
+## My HackTheBox CTF Methodology - From fresh box to root!
+
+> Un ottimo accenno alla metodologia da seguire per risolvere le varie sfide HTB. [My HackTheBox CTF Methodology - From fresh box to root!](https://0x00sec.org/t/my-hackthebox-ctf-methodology-from-fresh-box-to-root/13980)
+
+## Hacking Articles
+
+> Famosissimo **BLOG** che contiene un elenco di risoluzioni CTF e centinaia di **TUTORIAL**. [Hacking Articles (https://www.hackingarticles.in/penetration-testing/)
+
+## AutoRecon
+
+> Altro **TOOL** realizzato da un utente che ha superato l'esame **OSCP**. Essenziale in fase di **ENUMERAZIONE**. [AutoRecon](https://github.com/Tib3rius/AutoRecon)
+
+
+
+
+
+
+
 
 
 
