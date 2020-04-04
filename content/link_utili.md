@@ -38,7 +38,7 @@ author: "Eugenio Fontana"
 
 ## Hacking Articles
 
-> Famosissimo **BLOG** che contiene un elenco di risoluzioni CTF e centinaia di **TUTORIAL**. [Hacking Articles (https://www.hackingarticles.in/penetration-testing/)
+> Famosissimo **BLOG** che contiene un elenco di risoluzioni CTF e centinaia di **TUTORIAL**. [Hacking Articles](https://www.hackingarticles.in/penetration-testing/)
 
 ## AutoRecon
 
@@ -46,7 +46,7 @@ author: "Eugenio Fontana"
 
 ## Windows / Linux Local Privilege Escalation Workshop
 
-> Essenziale risorsa in fase di **PRIVILEGE ESCALATION**. [https://github.com/sagishahar/lpeworkshop](https://github.com/sagishahar/lpeworkshop)
+> Essenziale risorsa in fase di **PRIVILEGE ESCALATION**. [Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop)
 
 ## POWERLESS & PowerSploit
 
