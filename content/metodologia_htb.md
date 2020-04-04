@@ -3,6 +3,34 @@ title: "metodologia_htb"
 author: "Eugenio Fontana"
 ---
 
+## PROGRAMMA DELLA CERTIFICAZIONE OSCP
+
+Di seguito gli argomenti trattati all'interno del corso di **CERTIFICAZIONE OSCP** estratti dal [sito ufficiale](https://www.offensive-security.com/)
+
+- Penetration Testing: What You Should Know
+- Getting Comfortable with Kali Linux
+- Command Line Fun
+- Practical Tools
+- Bash Scripting
+- Passive Information Gathering
+- Active Information Gathering
+- Vulnerability Scanning
+- Web Application Attacks
+- Introduction to Buffer Overflows
+- Windows Buffer Overflows
+- Linux Buffer Overflows
+- Client-Side Attacks
+- Locating Public Exploits
+- Fixing Exploits
+- File Transfers
+- Antivirus Evasion
+- Privilege Escalation
+- Password Attacks
+- Port Redirection and Tunneling
+- Active Directory Attacks
+- The Metasploit Framework
+- PowerShell Empire
+
 ## Fase 1 | SCANSIONE
 
 Partiamo con una **scansione** per verificare quali SERVIZI e PORTE sono **aperte** all'interno del nostro **target**.
