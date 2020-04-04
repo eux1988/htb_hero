@@ -44,14 +44,20 @@ author: "Eugenio Fontana"
 
 > Altro **TOOL** realizzato da un utente che ha superato l'esame **OSCP**. Essenziale in fase di **ENUMERAZIONE**. [AutoRecon](https://github.com/Tib3rius/AutoRecon)
 
+## Windows / Linux Local Privilege Escalation Workshop
 
+> Essenziale risorsa in fase di **PRIVILEGE ESCALATION**. [https://github.com/sagishahar/lpeworkshop](https://github.com/sagishahar/lpeworkshop)
 
+## POWERLESS & PowerSploit
 
+> Ottimi TOOL di Privilege Escalation in ambienti Windows. 
+[POWERLESS](https://github.com/M4ximuss/Powerless)
+[PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
 
+## linux-smart-enumeration
 
+> TOOL per l'enumerazione di sistemi **LINUX**. [linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration)
 
+## Useful OSCP Notes & Commands
 
-
-
-
-
+> Appunti di un utente che ci regala alcuni consigli per superare la **certificazione OSCP**. [Useful OSCP Notes & Commands](https://medium.com/@falconspy/useful-oscp-notes-commands-d71b5eda7b02)
