@@ -7,8 +7,13 @@ author: "Eugenio Fontana"
 
 ## Optixal's OSCP Notes
 
-> Partiamo subito da alcune note che riassumono alcuni dei comandi/tool più utilizzati. 
-  - [Optixal's OSCP Notes](https://github.com/Optixal/OSCP-PWK-Notes-Public)
+> Partiamo subito da alcune note che riassumono alcuni dei comandi/tool più utilizzati. [Optixal's OSCP Notes](https://github.com/Optixal/OSCP-PWK-Notes-Public)
+
+## Optixal's OSCP Notes
+
+> Partiamo subito da alcune note che riassumono alcuni dei comandi/tool più utilizzati. [Optixal's OSCP Notes](https://github.com/Optixal/OSCP-PWK-Notes-Public)
+
+
 
 
 
