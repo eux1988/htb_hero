@@ -61,3 +61,15 @@ author: "Eugenio Fontana"
 ## Useful OSCP Notes & Commands
 
 > Appunti di un utente che ci regala alcuni consigli per superare la **certificazione OSCP**. [Useful OSCP Notes & Commands](https://medium.com/@falconspy/useful-oscp-notes-commands-d71b5eda7b02)
+
+## Enumeration is the KEY
+
+> Appunti di un utente che ci regala alcuni consigli per la parte di ENUMERAZIONE. [Enumeration is the KEY](http://virgil-cj.blogspot.com/2018/02/enumeration-is-key_6.html)
+
+## Active Directory Security
+
+> Ottimo sito relativo alla parte di Active Directory Exploitation. [Active Directory Security](https://adsecurity.org/?page_id=4031)
+
+## PayloadsAllTheThings | Active Directory Attacks
+
+> Ottimo sito relativo alla parte di Active Directory Exploitation. [PayloadsAllTheThings | Active Directory Attacks](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md)
